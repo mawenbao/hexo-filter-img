@@ -1,0 +1,22 @@
+{
+  "name": "hexo-transform-img",
+  "version": "0.0.1",
+  "description": "Transform img tags",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mawenbao/hexo-transform-img.git"
+  },
+  "keywords": [
+    "hexo"
+  ],
+  "author": "mawenbao",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/mawenbao/hexo-transform-img/issues"
+  },
+  "homepage": "https://github.com/mawenbao/hexo-transform-img#readme"
+}
